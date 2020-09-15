@@ -1,0 +1,14 @@
+class: Burgerplaces
+
+attributes:
+name(string)
+fastFood(boolean)
+openDate(datetime)
+totalCapacity(integer)
+currentCapacity(integer)
+
+methods:
+findAge (Subtracts 2020 by open date)
+calculatePercentFull (divides currentCapacity by totalCapacity)
+name.capitalize (Takes our name string and capitalizes)
+addCustomer (add 1 to currentCapacity)
