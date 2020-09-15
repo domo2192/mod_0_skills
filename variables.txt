@@ -1,0 +1,14 @@
+food = ("sushi")
+is_delicious = true
+food = ("burgers")
+num2 = 5
+num7 = 10
+num7/num2
+songs = [
+"lover",
+"Pennylane",
+"Freebird",
+"Down on Cripple Creek"
+]
+songs.shift
+food.length 
