@@ -1,0 +1,16 @@
+Object: Highland_tap_and_Burger
+
+attributes
+
+name("highland tap and burger")
+fastFood(false)
+openDate(1971)
+totalCapacity(250)
+currentCapacity(200)
+
+
+methods
+findAge (49)
+calculatePercentFull(80%)
+name.capitalize (Highland_tap_and_burger)
+addCustomer (201)

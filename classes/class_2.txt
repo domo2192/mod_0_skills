@@ -1,0 +1,16 @@
+class: Bdubs
+
+attributes:
+location(string)
+openHour(integer)
+closeHour(integer)
+currentlyOpen(boolean)
+totalCapacity(integer)
+currentCapacity(integer)
+beerlist(string)
+
+methods:
+showWaitUntilOpen(difference between currentTime opening hour in hours)
+subtractCustomer(subtracts 1 from total capacity)
+calculatePercentFull(divides current capacity by total capacity)
+addBeer(adds another beer to beerlist)
