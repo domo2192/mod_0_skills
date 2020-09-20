@@ -1,10 +1,10 @@
-class: Bdubs
+class: buffalo wing restaurant 
 
 attributes:
 location(string)
 openHour(integer)
 closeHour(integer)
-currentlyOpen(boolean)
+isOpen(boolean)
 totalCapacity(integer)
 currentCapacity(integer)
 beerlist(string)
