@@ -1,8 +1,8 @@
-class: Burgerplaces
+class: Burgerplace 
 
 attributes:
 name(string)
-fastFood(boolean)
+isFastFood(boolean)
 openDate(datetime)
 totalCapacity(integer)
 currentCapacity(integer)
