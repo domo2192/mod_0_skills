@@ -4,7 +4,7 @@ attributes:
 location("Bdubs on 36th ave Denver Colorado")
 openHour(1100)
 closeHour(0000)
-currentlyOpen(true)
+isOpen(true)
 totalCapacity(300)
 currentCapacity(120)
 beerlist("blue moon", "coors light")
